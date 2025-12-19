@@ -3,16 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Safietou Deme, a young Senegalese programmer living in Italy.</div>  
+### <div align="center">I'm Safietou Deme, a Senegalese Fullstack Developer living in Brescia(Italy).</div>  
   
-
-- 🌱 I’m currently learning Software engineering at Alx.  
-  
-
-- ❓ Ask me about anything related to Python and chicken recipes.  
-  
-
-- ⚡ Fun fact: I don't like bugs 😡  
   
 
 <br/>  
